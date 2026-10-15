@@ -71,3 +71,14 @@ def home():
 
 if __name__ == "__main__":
   app.run(host="0.0.0.0", port=5000)
+
+##  Captures d'Écran du Projet
+
+* **Résumé de l'instance EC2 (`t3.micro`) :**  
+  ![Instance EC2](ec2-instance.png)
+
+* **Terminal du serveur Flask en cours d'exécution :**  
+  ![Terminal Flask](terminal-flask.png)
+
+* **Rendu de la page Web `CreativeFlow` connectée à S3 :**  
+  ![Rendu Web S3](webapp.png)
